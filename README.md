@@ -9,7 +9,6 @@ L'application a pour but de créer et mettre en place plusieurs concours ou édi
 Différents types d'utilisateurs sont autorisés à naviguer sur la plateforme et suivant leur attribution, il peuvent circuler sur la partie front office de l'application et/ou sur la partie back office de celle-ci.
 
 
-
 ## Installation
 
  Le système d'information suivant, demande l'installation et la possession d'un espace web sur serveur linux sur lequel seront déposés les fichiers de l'application disponible en téléchargement.
@@ -17,8 +16,6 @@ Différents types d'utilisateurs sont autorisés à naviguer sur la plateforme e
  - Version du serveur SGBD - Mariadb  version : 10.5.12-MariaDB-0+deb11u1 - Debian 11
  - Version PHP :  7.4.30
  - Administration via site web phpmyadmin version : 5.1.3
-
-La dernière version disponible est : [`v2.1`](#v2.1)
 
 ## Technologies utilisés pour le développement du système d'information "Contestify"
 
