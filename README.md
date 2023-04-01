@@ -16,6 +16,8 @@ Différents types d'utilisateurs sont autorisés à naviguer sur la plateforme e
  - Version du serveur SGBD - Mariadb  version : 10.5.12-MariaDB-0+deb11u1 - Debian 11
  - Version PHP :  7.4.30
  - Administration via site web phpmyadmin version : 5.1.3
+ 
+ > Avant de commencer, veuiller dans le fichier application/config/config.php, renseigner le path de votre serveur, dans la balise config['url'].
 
 ## Technologies utilisés pour le développement du système d'information "Contestify"
 
